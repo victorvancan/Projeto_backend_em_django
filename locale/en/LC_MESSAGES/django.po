@@ -1,0 +1,346 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-01 16:43-0300\n"
+"PO-Revision-Date: 2021-03-01 16:43-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.4.2\n"
+
+#: core/forms.py:6 core/forms.py:17
+msgid "Nome"
+msgstr "Name"
+
+#: core/forms.py:7 core/forms.py:18
+msgid "E-mail"
+msgstr "E-mail"
+
+#: core/forms.py:8 core/forms.py:19
+msgid "Assunto"
+msgstr "Topic"
+
+#: core/forms.py:9 core/forms.py:20
+msgid "Mensagem"
+msgstr "Message"
+
+#: core/models.py:13
+msgid "criação"
+msgstr "Create"
+
+#: core/models.py:14
+msgid "modificado"
+msgstr "Modifie"
+
+#: core/models.py:15
+msgid "ativo?"
+msgstr "Active?"
+
+#: core/models.py:20 core/models.py:70
+msgid "Engrenagem"
+msgstr "Engine"
+
+#: core/models.py:21
+msgid "Gráfico"
+msgstr "Graphic"
+
+#: core/models.py:22
+msgid "Usuários"
+msgstr "Users"
+
+#: core/models.py:23 core/models.py:73
+msgid "Design"
+msgstr "Design"
+
+#: core/models.py:24
+msgid "Mobile"
+msgstr "Mobile"
+
+#: core/models.py:25 core/models.py:74
+msgid "Foguete"
+msgstr "Rocket"
+
+#: core/models.py:27 core/models.py:33 core/templates/base.html:50
+msgid "Serviços"
+msgstr "services"
+
+#: core/models.py:28
+msgid "Descrição"
+msgstr "Description"
+
+#: core/models.py:29
+msgid "Icone"
+msgstr "Icon"
+
+#: core/models.py:32
+msgid "Serviço"
+msgstr "Service"
+
+#: core/models.py:43 core/models.py:52
+msgid "Cargo"
+msgstr "Responsibility"
+
+#: core/models.py:44
+msgid "Cargos"
+msgstr "Responsibilitys"
+
+#: core/models.py:51
+msgid "nome"
+msgstr "Name"
+
+#: core/models.py:53
+msgid "Bio"
+msgstr "Bio"
+
+#: core/models.py:54
+msgid "Image"
+msgstr "Bio"
+
+#: core/models.py:61
+msgid "Funcionário"
+msgstr "Employer"
+
+#: core/models.py:62
+msgid "Funcionários"
+msgstr "Employees"
+
+#: core/models.py:71
+msgid "note e cel"
+msgstr "Notebook and cel"
+
+#: core/models.py:72
+msgid "folha"
+msgstr "leaf"
+
+#: core/models.py:78
+msgid "feature"
+msgstr "feature"
+
+#: core/models.py:79
+msgid "descricao"
+msgstr "Description"
+
+#: core/models.py:80
+msgid "Icon"
+msgstr "Icon"
+
+#: core/models.py:83
+msgid "Feature"
+msgstr "Feature"
+
+#: core/models.py:84
+msgid "Features"
+msgstr "Features"
+
+#: core/templates/404.html:12
+msgid "Página não encontrada"
+msgstr "Page Not foud"
+
+#: core/templates/404.html:13
+msgid "Infelizmente a pagina que procura não esta disponivel"
+msgstr "Unfortunately the page you are looking for is not available "
+
+#: core/templates/404.html:15 core/templates/500.html:15
+msgid "volte para a Home"
+msgstr "back home"
+
+#: core/templates/500.html:12
+msgid "Erro de processamento"
+msgstr "Processing Error"
+
+#: core/templates/base.html:45
+msgid "inicio"
+msgstr "Home"
+
+#: core/templates/base.html:55
+msgid "Time"
+msgstr "team"
+
+#: core/templates/base.html:60
+msgid "Preço"
+msgstr "price"
+
+#: core/templates/base.html:65
+msgid "Clientes"
+msgstr "customers"
+
+#: core/templates/base.html:70
+msgid "Contato"
+msgstr "Contact"
+
+#: core/templates/chamada.html:9
+msgid "tenha 30 dias de teste gratis"
+msgstr "give 30 days of free trial"
+
+#: core/templates/chamada.html:10
+msgid "aqui voce tem essa privilegio"
+msgstr "Here you get this Bonus"
+
+#: core/templates/chamada.html:14
+msgid "Register Now"
+msgstr "Register Now"
+
+#: core/templates/clientes.html:16
+msgid "Creative Head"
+msgstr "Creative Head"
+
+#: core/templates/clientes.html:19 core/templates/clientes.html:40
+#: core/templates/clientes.html:61 core/templates/clientes.html:82
+msgid "Teste"
+msgstr ""
+
+#: core/templates/clientes.html:37
+msgid "Awesome Technology co."
+msgstr ""
+
+#: core/templates/clientes.html:58
+msgid "Nesnal Design co."
+msgstr ""
+
+#: core/templates/clientes.html:79
+msgid "Developer"
+msgstr ""
+
+#: core/templates/contato.html:7
+msgid "Contate-nos"
+msgstr "contact-us"
+
+#: core/templates/contato.html:18
+msgid "Insira seu nome, por favor"
+msgstr "Insert you name, please!"
+
+#: core/templates/contato.html:24
+msgid "Insira seu E-mail, por favor"
+msgstr "Insert your E-mail, please!"
+
+#: core/templates/contato.html:30
+msgid "Insira seu assunto, por favor!"
+msgstr "Insert your topic here!"
+
+#: core/templates/contato.html:36
+msgid "Escreva sua mensagem, por favor!"
+msgstr "Write your message, please!"
+
+#: core/templates/contato.html:40
+msgid "Enviar email"
+msgstr "Send message"
+
+#: core/templates/features.html:7
+msgid "Funções"
+msgstr "Functions"
+
+#: core/templates/hero.html:9
+msgid "Com a KOALA COM K"
+msgstr "with the KOALA COM K"
+
+#: core/templates/hero.html:9
+msgid "Aqui voce tem acesso a todas as novidades da tecnologia"
+msgstr "Here you have acess to all new tecs"
+
+#: core/templates/hero.html:10
+msgid "Aqui a tecnologia tem velocidade sem moleza!"
+msgstr "Tec came to us in high speed"
+
+#: core/templates/hero.html:12 core/templates/sobre.html:18
+msgid "Saiba mais"
+msgstr "learn more"
+
+#: core/templates/hero.html:13
+msgid "Entre em contato"
+msgstr "Contact"
+
+#: core/templates/preco.html:6
+msgid "Pricing"
+msgstr ""
+
+#: core/templates/preco.html:19
+msgid "Pro"
+msgstr ""
+
+#: core/templates/preco.html:22
+msgid "1 user"
+msgstr ""
+
+#: core/templates/preco.html:23
+msgid "10 GB storage"
+msgstr ""
+
+#: core/templates/preco.html:24
+msgid "Email support"
+msgstr ""
+
+#: core/templates/preco.html:25 core/templates/preco.html:45
+#: core/templates/preco.html:65
+msgid "Lifetime updates"
+msgstr ""
+
+#: core/templates/preco.html:27 core/templates/preco.html:47
+#: core/templates/preco.html:67
+msgid "Buy Now"
+msgstr ""
+
+#: core/templates/preco.html:39
+msgid "Plus"
+msgstr ""
+
+#: core/templates/preco.html:42
+msgid "10 user"
+msgstr ""
+
+#: core/templates/preco.html:43
+msgid "30 GB storage"
+msgstr ""
+
+#: core/templates/preco.html:44
+msgid "Priority email support"
+msgstr ""
+
+#: core/templates/preco.html:59
+msgid "Premium"
+msgstr ""
+
+#: core/templates/preco.html:62
+msgid "Unlimited users"
+msgstr ""
+
+#: core/templates/preco.html:63
+msgid "Unlimited storage"
+msgstr ""
+
+#: core/templates/servicos.html:6
+msgid "Nosso produtos"
+msgstr "Our Products"
+
+#: core/templates/sobre.html:11
+msgid "Estatisticas de gerenciamento"
+msgstr "Mangament Statistics"
+
+#: core/templates/sobre.html:12
+msgid "estatisitcas da sua empresa"
+msgstr "Status of you enterprise"
+
+#: core/templates/sobre.html:16
+msgid "Aqui teria graficos kkkk"
+msgstr "Here would  have graphics kkk "
+
+#: core/templates/time.html:6
+msgid "Conheça nosso time"
+msgstr "Meet our team"
+
+#: core/views.py:27
+msgid "E-mail enviado com sucesso"
+msgstr "E-mail send sucess"
+
+#: core/views.py:31
+msgid "Erro ao enviar o E-mail"
+msgstr "Erro to send E-mail"
